@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+# Hi there, I'm Michael Ariestian! 👋<br><br>[cite_start]I am an **IT Software Developer** passionate about building efficient web applications and system automations. [cite_start]I specialize in combining traditional coding with **AI-assisted development** to maximize productivity and code quality[cite: 6, 8].<br><br>### 🚀 About Me<br>- [cite_start]💻 Currently an **IT Developer Intern** at PT Indoproff Group[cite: 13, 14].<br>- [cite_start]🎓 **Information Systems** graduate from Universitas Putera Batam (GPA: 3.42)[cite: 25].<br>- [cite_start]🌟 **Bangkit Program 2023** Alumni (Cloud Computing Path)[cite: 19].<br>- [cite_start]🛠️ Specialized in **ERP Customization (Frappe Framework)** and API integration[cite: 7, 10].<br><br>### 🛠️ Tech Stack & Tools<br>- [cite_start]**Languages:** Python, JavaScript, PHP, HTML, CSS[cite: 10].<br>- [cite_start]**Frameworks & APIs:** Frappe Framework, RESTful APIs[cite: 10].<br>- [cite_start]**AI & Productivity:** Advanced Prompt Engineering (POC Framework), Antigravity, Claude AI, Gemini[cite: 10].<br>- [cite_start]**Tools & Cloud:** Google Cloud Platform (GCP), n8n, Git/GitHub, Postman, VS Code[cite: 10, 11, 15].<br><br>### 📊 Recent Project Focus<br>- [cite_start]**Automation:** Developed hash-based automated subpoena (somasi) generation systems[cite: 16].<br>- [cite_start]**Logic & Integration:** Integrated real-time financial calculations using n8n and custom Python scripts[cite: 15, 17].<br>- [cite_start]**Cloud:** Deployed and managed backend services on GCP infrastructure[cite: 22, 23].<br><br>---<br>[cite_start]📫 **Get in Touch:** [michaelariestian@gmail.com](mailto:michaelariestian07@gmail.com) [cite: 3]<br>[cite_start]🔗 **LinkedIn:** [linkedin.com/in/michael-ariestian](https://linkedin.com/in/michael-ariestian) [cite: 3]
 
-<!--
-**Michares/Michares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ariet05) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Michael Ariestian) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@michaelaries) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Michael Ariestian) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Michares&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Michares&theme=shadow_blue&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Michares&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
