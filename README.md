@@ -1,5 +1,18 @@
-# 💫 About Me:
-# Hi there, I'm Michael Ariestian! 👋<br><br>I am an **IT Software Developer** passionate about building efficient web applications and system automations. I specialize in combining traditional coding with **AI-assisted development** to maximize productivity and code quality.<br><br>### 🚀 About Me<br>- 💻 Currently an **IT Developer Intern** at PT Indoproff Group.<br>- 🎓 **Information Systems** graduate from Universitas Putera Batam (GPA: 3.42).<br>- 🌟 **Bangkit Program 2023** Alumni (Cloud Computing Path).<br>- 🛠️ Specialized in **ERP Customization (Frappe Framework)** and API integration.<br><br>### 🛠️ Tech Stack & Tools<br>- **Languages:** Python, JavaScript, PHP, HTML, CSS.<br>- **Frameworks & APIs:** Frappe Framework, RESTful APIs.<br>- **AI & Productivity:** Advanced Prompt Engineering (POC Framework), Antigravity, Claude AI, Gemini.<br>- **Tools & Cloud:** Google Cloud Platform (GCP), n8n, Git/GitHub, Postman, VS Code.<br><br>### 📊 Recent Project Focus<br>- **Automation:** Developed hash-based automated subpoena (somasi) generation systems.<br>- **Logic & Integration:** Integrated real-time financial calculations using n8n and custom Python scripts.<br>- **Cloud:** Deployed and managed backend services on GCP infrastructure.<br><br>---<br>📫 **Get in Touch:** [michaelariestian@gmail.com](mailto:michaelariestian@gmail.com)<br>🔗 **LinkedIn:** [linkedin.com/in/michael-ariestian](https://linkedin.com/in/michael-ariestian)
+# Hi, I'm Michael Ariestian! 👋
+
+I am **passionate in this field** and dedicated to building innovative software solutions. I focus on bridging the gap between full-stack development and modern technology to create efficient applications.
+
+### 🛠️ Tech Stack
+- **Languages:** Python, JavaScript, PHP, HTML, CSS
+- **Frameworks:** Frappe Framework, RESTful APIs, CodeIgniter
+- **Cloud & Tools:** Google Cloud Platform (GCP), Git/GitHub, Postman
+
+### 🤖 AI-Assisted Development
+I am highly interested in leveraging advanced AI tools like **Antigravity, Claude, and Gemini** to optimize coding workflows and solve complex technical challenges.
+
+---
+📫 **Reach me at:** [michaelariestian@gmail.com](mailto:michaelariestian@gmail.com)
+🔗 **LinkedIn:** [linkedin.com/in/michael-ariestian](https://linkedin.com/in/michael-ariestian)
 
 
 ## 🌐 Socials:
